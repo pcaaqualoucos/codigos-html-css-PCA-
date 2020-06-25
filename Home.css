@@ -1,0 +1,173 @@
+body {
+	font-family: verdana;
+}
+
+p {
+	text-indent: 20pt;
+}
+
+.title {
+	float: right;
+	margin: 10px 200px 0px 0px;	
+}
+
+.logo {
+	height: 125px;
+	background-color: black;
+	border-bottom: 2px #3388ff  solid;
+}
+
+.logo1 {
+	margin: 10px 0px 0px 70px;
+	padding: 10px 0px 0px 0px;
+	float: left;
+}
+
+.menu {
+	float: left;
+	margin: 25px 0px 0px 100px;
+	word-spacing: 7px;
+}
+
+.menu ul {
+	margin: 30px 60px 0px 0px;
+	list-style: none;
+
+}
+
+.menu ul li {
+	display: inline-block;
+	height: 58px;
+}
+
+.menu  ul li:hover {
+	border-bottom: 3px  white solid;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #3399ff;
+	font-size: 15pt;
+}
+
+.menu a:hover {
+	color: white; 
+}
+
+#paragrafo-1 {
+	margin: 50px 900px 0px 0px;	
+	text-align: center;
+	font-size: 40pt;
+	color:  #ff4500;
+}
+
+#paragrafo {
+	margin: -20px 0px 0px 0px;
+	font-weight: bolder;
+	word-spacing: 2px; 
+	text-align: justify;
+	text-indent: 20pt;
+	font-style: italic;
+	font-size: 16pt;
+
+}
+
+.back{
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+}
+
+.back-1 {
+	height: 500px;
+	background-image: url(imagens/back.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+.sj {
+	width: 60%;
+	margin: auto;
+	padding-left: 40%;
+	padding-top: 5%;
+	text-align: center;
+	font-size: 45pt;
+}
+
+.parag {
+	width:90%;
+	margin: 0px 0px 0px 65px;
+}
+
+.logo-praias {
+	margin: -350px auto;
+	width: 26%;
+	float: left;
+
+	text-align: center;
+	line-height: 18pt;
+	padding-left: 8%;
+}
+
+.logo-embarc {
+	margin: -346px auto;
+	width: 26%;
+	float: right;
+
+	text-align: center;
+	line-height: 18pt;
+	padding-right: 8%;
+}
+
+.logo-marinas {
+	margin: 30px auto;
+	width: 26%;
+	text-align: center;
+	line-height: 18pt;
+}
+
+#roda-pe {
+	width: 100%;
+	height: 400px;
+	background-color: #4c4c4c;
+	border-bottom: black 90px solid;
+}
+
+#marin {
+	text-align: justify;
+}
+
+#praia {
+	text-align: justify;
+}
+
+#barco {
+	text-align: justify;
+}
+
+.contat {
+	width: 30%;
+	margin: 30px auto;
+	padding-right: 10%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.inst {
+	float: left;
+	margin: -100px 0px 0px 90px;
+	width: 30%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.fee {
+	float: right;
+	width: -100%;
+	margin: -100px auto;
+	width: 26%;
+	font-size: 15pt;
+	text-align: justify;
+}

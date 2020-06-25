@@ -1,0 +1,194 @@
+body {
+	font-family: verdana;
+	width: 100%;
+	margin: auto;
+}
+
+p {
+	text-indent: 20pt;
+}
+
+.logo { 
+    height: 125px;
+	background-color: black;
+	border-bottom: 2px #3388ff  solid;
+}
+
+.logo1 {
+	margin: 15px 0px 0px 70px;
+	float: left;
+}
+
+.menu {
+	float: left;
+	margin: 25px 0px 0px 100px;
+	word-spacing: 7px;
+}
+
+.menu ul {
+	margin: 30px 60px 0px 0px;
+	list-style: none;
+
+}
+
+.menu ul li {
+	display: inline-block;
+	height: 58px;
+}
+
+.menu  ul li:hover {
+	border-bottom: 3px  white solid;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #3399ff;
+	font-size: 15pt;
+}
+
+.menu a:hover {
+	color: white; 
+}
+
+.pw {
+	height: 270px;
+	margin: -55px auto;
+	background-image: url(imagens/pw.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	box-shadow: 0px 0px 10px 0px;
+	border-bottom: 1px black solid;
+}
+
+.pw-1 {
+	text-align: center;
+	color: white;
+	padding-top: 7%;
+	font-size: 50pt;
+}
+
+.conteudo {
+	width: 100%;
+	margin: auto;
+}
+
+.conteudo-1 {
+	width: 90%
+	margin: 0px 20px 0px 20px;
+	padding-top: 10%;
+}
+
+.conteudo-2 {
+	width: 80%;
+	padding-left: 10%;
+}
+
+.cont {
+	width: 80%;
+	margin: 20px auto;
+	text-align: center;
+
+}
+
+.tarta {
+	width: 90%;
+	margin: -700px auto;
+	opacity: 0.1;
+	padding-bottom: 36%;
+}
+
+.cont-1 {
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	text-indent: 20pt;
+	font-size: 15pt;
+	line-height: 30px;
+}
+
+.agua {
+	width: 90%;
+	margin: 250px auto 150px;
+}
+
+.agua-1 {
+	width: 46%
+	margin: 20px 20px 0px 20px;
+}
+
+.agua-2 {
+	width: 46%
+	margin: 20px 20px 0px 20px;
+}
+
+.agua-3 {
+	width: 46%;
+	margin: 0px 0px 0px 0px;
+	text-align: justify;
+	line-height: 18pt;
+}
+
+.agua-4 {
+	width: 46%;
+	margin: -1010px 20px 0px 0px;
+	float: right;
+}
+
+.agua-5 {
+	text-align: justify;
+	line-height: 18pt;
+}
+
+.agua-6 {
+	font-size: 10pt;
+}
+
+#roda-pe {
+	width: 100%;
+	height: 350px;
+	margin: 0px 0px 0px 0px; 
+	background-color: #4c4c4c;
+	border-bottom: black 90px solid;
+	border-top: 10px black solid;
+}
+
+#marin {
+	text-align: justify;
+}
+
+#praia {
+	text-align: justify;
+}
+
+#barco {
+	text-align: justify;
+}
+
+.contat {
+	width: 30%;
+	margin: 30px auto;
+	padding-right: 10%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.inst {
+	float: left;
+	margin: -100px 0px 0px 90px;
+	width: 30%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.fee {
+	float: right;
+	width: -100%;
+	margin: -100px auto;
+	width: 26%;
+	font-size: 15pt;
+	text-align: justify;
+}
+

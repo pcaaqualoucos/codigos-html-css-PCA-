@@ -1,0 +1,164 @@
+body {
+	font-family: verdana;
+	width: 90%;
+	margin: auto;
+}
+
+section {
+	width: 99,9%;
+	margin: 1px auto;
+	border-bottom: 5px black solid;
+	border: black 1px solid;
+}
+
+input:invalid {
+	border-color: crimson;
+	box-shadow: 0px 0px 3px;
+	crimson;
+}
+
+input:focus {
+	outline: none;
+}
+
+input:focus:invalid {
+	box-shadow: none;
+}
+
+span {
+	color: crimson;
+}
+
+.logo {
+	height: 125px;
+	background-color: black;
+	border-bottom: 2px #ff4500  solid;
+		
+}
+
+.logo1 {
+	margin: 10px 0px 0px 70px;
+	padding: 10px 0px 0px 0px;
+	float: left;
+}
+
+.menu {
+	float: left;
+	margin: 25px 0px 0px 100px;
+	word-spacing: 7px;
+}
+
+.menu ul {
+	margin: 30px 60px 0px 0px;
+	list-style: none;
+
+}
+
+.menu ul li {
+	display: inline-block;
+	height: 58px;
+}
+
+.menu  ul li:hover {
+	border-bottom: 3px  white solid;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #3399ff;
+	font-size: 15pt;
+}
+
+.menu a:hover {
+	color: white; 
+}
+
+.aqua {
+	width: 100%;
+	height: 250px; 
+	margin: -72px auto 0px;
+	background-image: url(imagens/file.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	border-bottom: 2px #ff4500  solid;
+
+}
+
+.aqua-1 {
+	padding-top: 3%;
+	text-align: center;
+	font-size: 80pt;
+	color: #ff4500;
+	font-family: ubuntu;
+}
+
+.aqua-2 {
+	height: 40px;
+	margin: -50px 30px 0px 0px;
+	color: #ff4500;
+	font-family: ubuntu;	
+	font-size: 35pt;
+	float: right;
+}
+
+.cont {
+	padding-top: 0.5%;
+	background-color: #f5fffa;
+}
+
+.final {
+	text-decoration: none;
+	color: black;
+}
+
+.final:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+#roda-pe {
+	width: 100%;
+	height: 350px;
+	background-color: #4c4c4c;
+	border-bottom: black 90px solid;
+}
+
+#marin {
+	text-align: justify;
+}
+
+#praia {
+	text-align: justify;
+}
+
+#barco {
+	text-align: justify;
+}
+
+.contat {
+	width: 30%;
+	margin: 30px auto;
+	padding-right: 10%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.inst {
+	float: left;
+	margin: -100px 0px 0px 90px;
+	width: 30%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.fee {
+	float: right;
+	width: -100%;
+	margin: -100px auto;
+	width: 26%;
+	font-size: 15pt;
+	text-align: justify;
+}

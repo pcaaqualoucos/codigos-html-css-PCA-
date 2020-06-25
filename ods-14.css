@@ -1,0 +1,218 @@
+body{
+	width: 100%;
+	margin: auto;
+	font-family: verdana;
+	/*background-color: rgb(0, 0, 0); */
+	/*background-image: url("imagens/marm.jpg");*/
+    /* background-repeat: repeat; */
+    /*background-repeat: repeat-x;*/
+    /*background-repeat: repeat-y;*/
+    /*background-repeat: no-repeat; 
+    /* background-position: 50px 100px; */
+    /*  background-position: left bottom; */
+    /* background-position: center center;*/
+    /*background-size: 780px 460px;*/ 
+    /*background-size: 100%;
+    /* background-attachment: scroll; */
+    /*background-attachment: fixed;*/
+    /*opacity: 2.0;*/
+}
+
+p {
+	text-align: justify;
+}
+ 
+.logo { 
+    height: 125px;
+	background-color: black;
+	border-bottom: 2px #3388ff  solid;
+}
+
+.logo1 {
+	margin: 15px 0px 0px 70px;
+	float: left;
+}
+
+.menu {
+	float: left;
+	margin: 25px 0px 0px 100px;
+	word-spacing: 7px;
+}
+
+.menu ul {
+	margin: 30px 60px 0px 0px;
+	list-style: none;
+
+}
+
+.menu ul li {
+	display: inline-block;
+	height: 58px;
+}
+
+.menu  ul li:hover {
+	border-bottom: 3px  white solid;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #3399ff;
+	font-size: 15pt;
+}
+
+.menu a:hover {
+	color: white; 
+}
+
+.pana {
+	width: 100%;
+	height: 500px;
+	margin: -89px auto;
+	background-image: url(imagens/pana1.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+	border-bottom: 2px black solid;
+}
+
+.ods {
+	padding-top: 7%;
+	padding-left: 35%;
+	font-size: 80pt;
+	color: white;
+}
+
+.section {
+	width: 100%;
+}
+
+.section-1 {
+	width: 100%;
+}
+
+.onu {
+	width: 100%;
+	height: 550px;
+	margin: 90px 0px 0px 0px;
+	background-color: #f0f8ff;
+	padding-top: 3%;
+	border-bottom: 2px black solid; 
+}
+
+.onu-1 {
+	float: right;
+	margin: 0px 250px 0px 0px;
+}
+
+.ONU {
+	text-align: center;
+    text-decoration: underline overline;
+    font-size: 30pt;
+}
+
+.peixe {
+	float: left;
+	width: 40%;
+	margin: -450px 0px 0px 40px;
+	border-bottom: 
+}
+
+.peixe-1 {
+	width: 40%;
+	margin: 0px 0px 0px 70px;
+}
+
+.peixe-2 {
+	width: 50%;
+	margin: 0px 50px 0px 0px;
+	padding-left: 45%;
+	padding-top: 7%;
+	text-align: justify;
+	text-indent: 20pt;
+	font-size: 16pt;
+}
+
+.aside {
+	width: 100%;
+	height: 650px;
+}
+
+.vida {
+	width: 50%;
+	margin: auto;
+	padding-right: 20%;
+	padding-top: 2%;
+	font-size: 20pt;
+}
+
+.vida a {
+	text-decoration: none;
+	color: #1e90ff;
+}
+
+.vida a:hover {
+	text-decoration: underline;
+}
+
+.vida-1 {
+	width: 52%;
+	margin: -10px 20px 0px 60px;
+	text-align: justify;
+	text-indent: 20pt;
+	line-height: 20pt;
+	font-size: 13pt;
+	float: left;
+}
+
+.vida-2 {
+	width: 36%;
+	margin: -520px 0px 0px 250px;
+	float: right;
+}
+
+#roda-pe {
+	width: 100%;
+	height: 350px;
+	background-color: #4c4c4c;
+	border-bottom: black 90px solid;
+}
+
+#marin {
+	text-align: justify;
+}
+
+#praia {
+	text-align: justify;
+}
+
+#barco {
+	text-align: justify;
+}
+
+.contat {
+	width: 30%;
+	margin: 30px auto;
+	padding-right: 10%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.inst {
+	float: left;
+	margin: -100px 0px 0px 90px;
+	width: 30%;
+	text-align: justify;
+	font-size: 15pt;
+	line-height: 18pt;
+}
+
+.fee {
+	float: right;
+	width: -100%;
+	margin: -100px auto;
+	width: 26%;
+	font-size: 15pt;
+	text-align: justify;
+}
+
